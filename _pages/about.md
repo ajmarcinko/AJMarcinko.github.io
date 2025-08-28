@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-As an Associate Professor in Behavioural Science at Durham University, my expertise is in social and organisational psychology with a focus on diversity and inclusion, organisational authenticity, team performance, leadership, and bias. I have extensive experience designing, implementing, and evaluating behavioural interventions using research-backed frameworks and techniques. I am also a Fellow of the Center for Evidence-Based Management.
+Hello!
+
+I'm an Associate Professor Durham University with expertise in diversity and inclusion, organisational authenticity, team performance, leadership, and bias. I have extensive experience designing, implementing, and evaluating behavioural interventions using research-backed frameworks and techniques. I am also a Fellow of the Center for Evidence-Based Management.
 
 I have been involved in research projects for the United Nations, NASA, and the US Navy Submarine School and have worked in a coaching / consultancy capacity with a number of Fortune 500 and FTSE 100 companies. I've also been invited to speak at various seminars, conferences, and panels across Europe and the United States.
 
