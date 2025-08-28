@@ -7,7 +7,7 @@ subtitle: <a href='#'>Associate Professor of Behvioural Science at Durham Univer
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Durham University</p>
     <p>Department of Psychology</p>
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As an Associate Professor in Behavioural Science at Durham University, my expertise is in social and organisational psychology with a focus on diversity and inclusion, organisational authenticity, team performance, leadership, and bias. I have extensive experience designing, implementing, and evaluating behavioural interventions using research-backed frameworks and techniques. I am also a Fellow of the Center for Evidence-Based Management.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have been involved in research projects for the United Nations, NASA, and the US Navy Submarine School and have worked in a coaching / consultancy capacity with a number of Fortune 500 and FTSE 100 companies. I've also been invited to speak at various seminars, conferences, and panels across Europe and the United States.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My work with organisations is soundly based on the latest academic research and theory, but I strive to deliver it in an engaging, concise, and practical manner. I take an evidence-based approach to consultancy, drawing on my academic expertise to develop practical, cost-effective solutions.
